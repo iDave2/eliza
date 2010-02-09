@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+#
 # == Synopsis
 #
 # eliza_cli - eliza command line interface
